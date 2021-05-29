@@ -4,8 +4,10 @@ A pretty straight forward React web app, with dynamic background and searchable 
 
 ## Screens as seen in the app.
 
-![](2021-05-30-01-39-42.png)
-![](2021-05-30-01-40-55.png)
+![image](https://user-images.githubusercontent.com/45294902/120083809-f62caa00-c0e8-11eb-8b51-a093337fc27f.png)
+![image](https://user-images.githubusercontent.com/45294902/120083812-017fd580-c0e9-11eb-9dea-426b5eee0ec7.png)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
