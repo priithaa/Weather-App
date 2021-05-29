@@ -1,8 +1,13 @@
-# Getting Started with Create React App
+# Weather App Made with openweathermap API.
+
+A pretty straight forward React web app, with dynamic background and searchable cities. The web app however is appropriate for mobile phone iteraction.
+
+## Screens as seen in the app.
+
+![](2021-05-30-01-39-42.png)
+![](2021-05-30-01-40-55.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
 
 In the project directory, you can run:
 
